@@ -65,7 +65,6 @@ class SLL:
             lst.append(temp.value)
             temp = temp.next
         print(lst)
-        return
 
 
 a = SLL()
