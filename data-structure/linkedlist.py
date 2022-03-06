@@ -1,3 +1,11 @@
+"""
+A linked list is a dynamic data structure. The number of nodes in a list is not fixed and can
+grow and shrink on demand. Any application which has to deal with an unknown number of objects will
+need to use a linked list. ll is a very common data structure that is used to create other data structures like
+trees, graphs, hashing. etc.
+"""
+
+
 class Node:
     def __init__(self):
         self.value = None

@@ -1,3 +1,9 @@
+"""
+A stack abstract type is a container of objects that arc inserted and removed according
+to the last-in first-out (LIFO) principle.
+"""
+
+
 class Node:
     def __init__(self):
         self.value = None

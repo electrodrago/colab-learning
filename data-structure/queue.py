@@ -1,3 +1,11 @@
+"""
+Queue is also an abstract data structure or a linear data structure, in which the first element is
+inserted from one end called us rear (also called tail), and the deletion of the existing clement takes place
+from the other end, called as front (also called head). This makes queue as FIFO data structure, which
+means that element inserted first will also be removed first.
+"""
+
+
 class Node:
     def __init__(self):
         self.value = None
