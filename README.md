@@ -49,9 +49,9 @@ Linear Regression.
 * `xuli.py` work with k-Means clustering to find k most density distributions of colors
 in the image, change the pixels of those exterior points to its related cluster, the result
 is nearly the same image but reduce the capacity of the image.
-* * From:
+* * From:<br>
 ![Original](ML_basis/k-Means/b.jpg)
-* * To:
+* * To:<br>
 ![k-Means](assets/xuli.png)
 ### LinearRegression
 * `parabol.py` work with matrix multiplication to fix the best
@@ -59,7 +59,7 @@ line to the scattered point, use the mechanism of Linear Regression
 matrix multiplication.
 ![Parabol](assets/parabol.png)
 * `imglm.py` work with images, perform slightly color change adaptive.
-* * From:
+* * From:<br>
 ![Original](ML_basis/LinearRegression/beach.jpg)
-* * To:
+* * To:<br>
 ![k-Means](assets/imglm.png)
