@@ -63,3 +63,9 @@ matrix multiplication.
 ![Original](ML_basis/LinearRegression/beach.jpg)
 * * To:<br>
 ![k-Means](assets/imglm.png)
+
+## Self-studying strategy
+
+### Part of [electrodrago](https://github.com/electrodrago)
+
+Located in ```viet-self-learn```. See [viet-readme](viet-self-learn/viet.md) for more information.
