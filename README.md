@@ -68,4 +68,4 @@ matrix multiplication.
 
 ### Part of [electrodrago](https://github.com/electrodrago)
 
-Located in ```viet-self-learn```. See [viet-readme](viet-self-learn/viet.md) for more information.
+Located in ```viet-self-learn```. See [viet-readme](viet-self-learn/README.md) for more information.
