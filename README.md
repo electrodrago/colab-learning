@@ -64,8 +64,9 @@ matrix multiplication.
 * * To:<br>
 ![k-Means](assets/imglm.png)
 
-## Self-studying strategy
+## Generative Adversarial Network
 
-### Part of [electrodrago](https://github.com/electrodrago)
-
-Located in ```viet-self-learn```. See [viet-readme](viet-self-learn/README.md) for more information.
+### GAN result with Pokemons
+![poke](GAN/poke_gif.gif)
+### GAN result with MNIST dataset
+![mnist](GAN/dcgan_mnist.gif)
